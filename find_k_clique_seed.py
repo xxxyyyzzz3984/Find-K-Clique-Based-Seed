@@ -5,7 +5,6 @@ except ImportError:
     print 'Please install by: pip install networkx'
     sys.exit()
 
-import matplotlib.pyplot as plt
 import copy
 
 
